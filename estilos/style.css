@@ -4,14 +4,29 @@
 }
 
 body {
-    background-color: teal;
+    background-color: rgb(182, 160, 243);
 
 }
 
 main {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     width: 500px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.445);
+    font-style: italic;
+}
+
+h1 {
+    font-size: 2em;
+    color: rgb(101, 12, 153);
+}
+
+h2 {
+    font-size: 1.5em;
+    color: rgb(107, 4, 110);
+}
+
+img.lado {
+    float: right;
 }
